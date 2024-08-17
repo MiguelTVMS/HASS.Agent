@@ -117,6 +117,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Update="Controls\Service\ServiceCommands.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Update="Resources\Localization\Languages.resx">
       <SubType>Designer</SubType>
     </EmbeddedResource>
